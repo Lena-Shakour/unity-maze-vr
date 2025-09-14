@@ -4,9 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/main.unity
+    guid: 04fece8848fbe3a40accfab134058d86
+  - enabled: 1
+    path: Assets/mazee.unity
+    guid: 148afd8c27b8e38469e0fcc04353c39f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2e615055070d0794fa189e3edb15116f, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 129876b09b5f22f47bb135c176a517d8, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 30e9cb4f21ce0f44d8940812fdce642f, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fb66cd0e1ea77e14c997a28c51efbbd3, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: de9d32944ad14e649b8f3945d5795700, type: 2}
