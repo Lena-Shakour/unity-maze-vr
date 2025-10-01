@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/main.unity
     guid: 04fece8848fbe3a40accfab134058d86
-  - enabled: 1
+  - enabled: 0
     path: Assets/mazee.unity
     guid: 148afd8c27b8e38469e0fcc04353c39f
+  - enabled: 1
+    path: Assets/Scenes/mazee.unity
+    guid: db8fba78e29d8b746a2f2af35cc325df
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2e615055070d0794fa189e3edb15116f, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 129876b09b5f22f47bb135c176a517d8, type: 2}
